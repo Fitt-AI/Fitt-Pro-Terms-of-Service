@@ -15,34 +15,15 @@ Always consult a physician or qualified healthcare provider before beginning any
 
 3. User Accounts
 
-You may be required to create an account to access certain features. You agree to:
-
-Provide accurate and current information
-Maintain the security of your account
-Keep your login credentials confidential
-Accept responsibility for activity occurring under your account
+You may be required to create an account to access certain features. You agree to provide accurate and current information, maintain the security of your account, keep your login credentials confidential, and accept responsibility for activity occurring under your account.
 
 We reserve the right to suspend or terminate accounts that violate these Terms or misuse the Service.
 
 4. Camera, Photos, and Device Permissions
 
-Fitt Pro may request access to device features including:
+Fitt Pro may request access to device features including camera, photos/media library, motion and fitness activity, notifications, microphone if applicable, and health-related integrations.
 
-Camera
-Photos/media library
-Motion & fitness activity
-Notifications
-Microphone (if applicable)
-Health-related integrations
-
-Camera access may be used for:
-
-Exercise form analysis
-Workout tracking
-AI-powered movement detection
-Progress photos or videos
-Fitness scanning features
-Personalized workout feedback
+Camera access may be used for exercise form analysis, workout tracking, AI-powered movement detection, progress photos or videos, fitness scanning features, and personalized workout feedback.
 
 You can disable permissions at any time through your device settings. Certain features may not function properly if permissions are denied.
 
@@ -54,25 +35,14 @@ Some features within Fitt Pro may use artificial intelligence or machine learnin
 
 Certain features may require a paid subscription. By purchasing a subscription through the Apple App Store, you agree to Apple’s billing terms and payment policies.
 
-Subscriptions may:
-
-Renew automatically unless canceled
-Be billed through your Apple ID account
-Vary in pricing by region or promotion
-Change in features over time
+Subscriptions may renew automatically unless canceled, be billed through your Apple ID account, vary in pricing by region or promotion, and change in features over time.
 
 You can manage or cancel subscriptions through your Apple device settings.
 
 7. Acceptable Use
 
-You agree not to:
+You agree not to use the app unlawfully, reverse engineer or exploit the Service, upload harmful, abusive, or illegal content, interfere with servers or networks, attempt unauthorized access to accounts or systems, or use the Service to harass, threaten, or impersonate others.
 
-Use the app unlawfully
-Reverse engineer or exploit the Service
-Upload harmful, abusive, or illegal content
-Interfere with servers or networks
-Attempt unauthorized access to accounts or systems
-Use the Service to harass, threaten, or impersonate others
 8. Intellectual Property
 
 All app content, including branding, logos, software, graphics, AI systems, text, workout systems, and design elements are owned by Fitt Pro or its licensors and are protected by intellectual property laws.
@@ -95,37 +65,20 @@ We do not guarantee uninterrupted access to the Service. Features may change, be
 
 12. Third-Party Services
 
-Fitt Pro may integrate with or rely on third-party providers including:
-
-Apple services
-Analytics providers
-Cloud storage systems
-Payment processors
-AI systems
-Fitness integrations
+Fitt Pro may integrate with or rely on third-party providers including Apple services, analytics providers, cloud storage systems, payment processors, AI systems, and fitness integrations.
 
 We are not responsible for third-party services, policies, or outages.
 
 13. Limitation of Liability
 
-To the fullest extent permitted by law, Fitt Pro, its owners, developers, affiliates, employees, and partners shall not be liable for:
-
-Injuries or health complications
-Loss of data
-Service interruptions
-Financial loss
-Device damage
-Indirect or consequential damages
+To the fullest extent permitted by law, Fitt Pro, its owners, developers, affiliates, employees, and partners shall not be liable for injuries or health complications, loss of data, service interruptions, financial loss, device damage, or indirect or consequential damages.
 
 Your use of the Service is at your own risk.
 
 14. Indemnification
 
-You agree to defend and hold harmless Fitt Pro from claims, damages, liabilities, and expenses arising from:
+You agree to defend and hold harmless Fitt Pro from claims, damages, liabilities, and expenses arising from your misuse of the Service, violation of these Terms, or violation of laws or third-party rights.
 
-Your misuse of the Service
-Violation of these Terms
-Violation of laws or third-party rights
 15. Termination
 
 We reserve the right to suspend or terminate access to the Service at any time for any reason, including violations of these Terms.
@@ -141,4 +94,5 @@ These Terms shall be governed by applicable laws in your jurisdiction unless oth
 18. Contact Information
 
 For support, legal inquiries, or questions regarding these Terms, contact:
+
 support@fittpro.app
